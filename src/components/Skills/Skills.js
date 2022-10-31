@@ -19,7 +19,7 @@ function Skills() {
     return (
         <div className="skills" style={{backgroundColor: theme.secondary}}>
             <div className="skillsHeader">
-                <h2 style={{color: theme.primary}}>Skills</h2>
+                <h2 style={{color: theme.primary}}>eBud Collection</h2>
             </div>
             <div className="skillsContainer">
                 <div className="skill--scroll">
@@ -36,7 +36,7 @@ function Skills() {
                             <div className="skill--box" key={id} style={skillBoxStyle}>
                                 <img src={skillsImage(skill)} alt={skill} />
                                 <h3 style={{color: theme.tertiary}}>
-                                    {skill}
+                                  
                                 </h3>
                             </div>
                         ))}

@@ -1,12 +1,13 @@
 export const blogData = [
     {
         id: 1,
-        title: 'SCRAPING BILLBOARD AND IMDB USING PYTHON SELENIUM',
-        description: 'Here we will use Selenium to navigate between web pages, and try to scrape data from them.',
+        title: 'Legal Disclaimer',
+        description: 'Nothing in this White Paper should be treated or read as a guarantee or promise of how the token will develop or the value of the token. This White Paper outlines only our vision, current project status and our plans.',
         date: 'Aug 7, 2020',
-        image: 'https://1.bp.blogspot.com/-6vZQoWcIZeo/Xvw5ZD5Y53I/AAAAAAAABgI/GH2b5OuMaXAKuigK4diBbeYDW6dD3qVvgCK4BGAsYHg/w400-h225/selenium.jpg',
-        url: 'https://hackzism.blogspot.com/2020/07/scraping-billboard-and-imdb-using.html'
+        image: 'https://miro.medium.com/max/464/1*OlH9eYwZUdiNO2ajNJlkFQ.png',
+        url: 'https://medium.com/@ebuds/legal-disclaimer-40cd18f95380'
     },
+    /* 
     {
         id: 2,
         title: 'CHECK WEATHER FROM TERMINAL USING WTTR.IN',
@@ -39,6 +40,7 @@ export const blogData = [
         image: 'https://1.bp.blogspot.com/-jhdtUBIRD_s/XxLFKQuRz9I/AAAAAAAABsM/mClfbfDFKvsUwA7Wyi25Lzu3DEmL2lxrACNcBGAsYHQ/s1919/gta.jpg',
         url: 'https://hackzism.blogspot.com/2020/07/how-can-you-get-michaels-or-trevors.html'
     },
+    */
 ]
 
 

@@ -1,6 +1,9 @@
+
+
 export const aboutData = {
-    title: "Who I am",
-    description1: "My name's Jane. I'm a web designer and developer based in Southampton, UK.",
-    description2: "During the day I work as a lead developer at a local agency and in the evening I  work on freelance projects and utilize the time to built my own products. I spent my leisure hours writing articles and poetry. Right now I'm also trying a hand at machine learning and AI. I love to learn and explore new arenas.",
-    image: 2
+    title: "Elrond Buds",
+    description1: "eBuds is a decentralized NFT community project, evolved into one of the first DAOs on Elrond Blockchain.",
+    description2: "Staking all $EGLD raised from minting for 1000+ days.",
+    description3: " Rewarding participants with $EBUD tokens.",
+    image: 2 ,
 }

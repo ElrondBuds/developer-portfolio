@@ -1,3 +1,4 @@
+
 import React, { useContext, useState } from 'react'
 import { Helmet } from 'react-helmet'
 import { Grid } from '@material-ui/core'
@@ -70,13 +71,13 @@ function ProjectPage() {
     return (
         <div className="projectPage" style={{backgroundColor: theme.secondary}}>
             <Helmet>
-                <title>{headerData.name} | Projects</title>
+                <title>{headerData.name} | Projects We Love</title>
             </Helmet>
             <div className="projectPage-header" style={{backgroundColor:theme.primary}}>
                 <Link to="/">
                         <AiOutlineHome className={classes.home}/>
                 </Link>
-                <h1 style={{color: theme.secondary}}>Projects</h1>
+                <h1 style={{color: theme.secondary}}>Projects We Love</h1>
             </div>
            <div className="projectPage-container">
                <div className="projectPage-search">
