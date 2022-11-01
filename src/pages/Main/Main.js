@@ -13,11 +13,12 @@ function Main() {
 
             <Navbar />        
             <Landing />
+            <Skills />
             <About />
             <Education />
             <Experience />
             
-            <Skills />
+            
             <Projects />
             
             
