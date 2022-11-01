@@ -89,9 +89,7 @@
         padding: 1rem;
         margin: 1rem 0;
     }
-    .skillsHeader h2 {
-        font-size: 3.2rem;
-    }
+
     .skill--box {
         width: 150px;
         height: 150px;
@@ -104,11 +102,7 @@
     }
 
 
-    .skill--box h3 {
-        font-size: 20px;
-        margin-top: 1rem;
-    }
-
+   
 }
 
 @media screen and (max-width: 800px) {
