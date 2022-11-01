@@ -27,7 +27,7 @@ function Skills() {
                         gradient={false} 
                         speed={80} 
                         pauseOnHover={true}
-                        pauseOnClick={true} 
+                        pauseOnClick={false} 
                         delay={0}
                         play={true} 
                         direction="left"
