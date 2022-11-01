@@ -13,8 +13,9 @@ function Main() {
 
             <Navbar />        
             <Landing />
-            <Skills />
+            
             <About />
+            <Skills />
             <Education />
             <Experience />
             
