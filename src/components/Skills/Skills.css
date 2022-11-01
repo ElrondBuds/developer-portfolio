@@ -112,9 +112,7 @@
     .skillsContainer {
         padding: 0.5rem;
     }
-    .skillsHeader h2 {
-        font-size: 3rem;
-    }
+ 
 
     .skill--scroll {
         width: 100%;
@@ -134,14 +132,7 @@
         height: 80px;
     }
 
-    .skillsHeader h2 {
-        font-size: 2.5rem;
-    }
-
-    .skill--box h3 {
-        font-size: 18px;
-        margin-top: 1rem;
-    }
+   
 }
 
 @media screen and (max-width: 400px) {
