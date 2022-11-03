@@ -2,10 +2,9 @@ export const blogData = [
     {
         id: 1,
         title: 'Legal Disclaimer',
-        description: 'Nothing in this White Paper should be treated or read as a guarantee or promise of how the token will develop or the value of the token. This White Paper outlines only our vision, current project status and our plans.',
-        date: 'Aug 7, 2020',
-        image: 'https://miro.medium.com/max/464/1*OlH9eYwZUdiNO2ajNJlkFQ.png',
-        url: 'https://medium.com/@ebuds/legal-disclaimer-40cd18f95380'
+        description: 'Nothing in this Paper should be treated or read as a guarantee or promise of how the token will develop or the value of the token. This Paper outlines only our vision, current project status and our plans.',
+        date: 'Nov 3, 2022',
+        image: 'https://miro.medium.com/max/640/1*XMu7np_Bibm1D_hDK65OQw.png',
     },
     /* 
     {

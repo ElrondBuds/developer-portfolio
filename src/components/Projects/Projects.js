@@ -48,7 +48,7 @@ function Projects() {
             {projectsData.length > 0 && (
                 <div className="projects" id="projects" style={{backgroundColor: theme.secondary}}>
                     <div className="projects--header">
-                        <h1 style={{color: theme.primary}}>Discover » </h1>
+                        <h1 style={{color: theme.primary}}>Discover NFTs » </h1>
                     </div>
                     <div className="projects--body">
                         <div className="projects--bodyContainer">

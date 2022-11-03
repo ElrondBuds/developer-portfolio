@@ -4,7 +4,7 @@ import one from '../assets/svg/svguri/profile.png'
 export const headerData = {
     name: 'ElrondBuds',
     title: "Decentralized Autonomous Organization",
-    desciption:"ElrondBuds aims to create something bigger and more powerful than ever, a place where is no king and no entity has the keys to the kingdom. To achive this it requires exceptional people, not money.",
+    desciption:"In a world that is controlled by central authorities, ElrondBuds mission is to create a decentralized platform that is driven by the community and powered by the people.",
     image: one,
     resumePdf: resume
 }

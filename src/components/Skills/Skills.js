@@ -36,12 +36,14 @@ function Skills() {
                             <div className="skill--box" key={id} style={skillBoxStyle}>
                                 <img src={skillsImage(skill)} alt={skill} />
                                 <h3 style={{color: theme.tertiary}}>
-                                  
                                 </h3>
-                            </div>
+                        </div>
                         ))}
                     </Marquee>
                 </div>
+        </div>
+        <div className="skillsHeader">
+                <h2 style={{color: theme.primary}}>The eBud collection of NFTs is a digital asset that is used to help secure the elrond network. The income generated from the eBud collection is reinvested back into the ecosystem to help grow the community and add more value.</h2>
             </div>
         </div>
     )

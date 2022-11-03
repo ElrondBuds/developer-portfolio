@@ -14,7 +14,7 @@ function Footer() {
     }
 
     const { theme }  = useContext(ThemeContext)
-
+    
     return (
         <div className="footer" style={{backgroundColor: theme.secondary}}>
             <p style={{color: theme.tertiary}}>
