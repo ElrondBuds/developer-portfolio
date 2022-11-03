@@ -3,7 +3,7 @@ export const educationData = [
         id: 1,
         institution: 'The collection is stored on the Elrond blockchain, and the collection is accessible to anyone with an Elrond wallet.',
         course: ' eBuds NFT collection consists of 1000 NFT digital artworks.',
-        startYear: 'February 9th,',
+        startYear: 'February,',
         endYear: '2022'
     },
     {
