@@ -12,7 +12,7 @@ export const projectsData = [
         projectName: 'eBuds',
         projectDesc: 'eBuds is an online collection of 30 cannabis strains, each with its own background and decorations. 1,000 unique NFTs have been generated.',
         tags: ['eBuds', 'buds', 'weed'],
-        code: 'https://ebuds.netlify.app/',
+        code: 'https://superciety.com/fellowships/ebuds',
         demo: 'https://isengard.market/collection/BUD-3ee0cf',
         image: ebud
     },
