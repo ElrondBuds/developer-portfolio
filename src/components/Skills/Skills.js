@@ -19,7 +19,7 @@ function Skills() {
     return (
         <div className="skills" style={{backgroundColor: theme.secondary}}>
             <div className="skillsHeader">
-                <h2 style={{color: theme.primary}}>eBud Collection</h2>
+                <h2 style={{color: theme.primary}}>eBuds Collection</h2>
             </div>
             <div className="skillsContainer">
                 <div className="skill--scroll">
@@ -43,8 +43,11 @@ function Skills() {
                 </div>
         </div>
         <div className="skillsHeader">
-                <h2 style={{color: theme.primary}}>The eBud collection of NFTs is a digital asset that is used to help secure the elrond network. The income generated from the eBud collection is reinvested back into the ecosystem to help grow the community and add more value.</h2>
             </div>
+            <p style={{color: theme.tertiary}}>
+            
+The eBud collection of NFTs is a digital asset that is used to create a community, add value to the project, and secure the MultiversX blockchain. The collection is based on the MultiversX and provides incentives for bootstrapping Web3.0.
+            </p>
         </div>
     )
 }

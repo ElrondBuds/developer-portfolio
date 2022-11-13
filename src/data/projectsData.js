@@ -3,12 +3,21 @@ import two from '../assets/svg/projects/two.svg'
 import three from '../assets/svg/projects/three.svg'
 import four from '../assets/svg/projects/four.png'
 import five from '../assets/svg/projects/five.svg'
-
+import ebud from '../assets/svg/projects/ebud.svg'
 
 
 export const projectsData = [
     {
         id: 1,
+        projectName: 'eBuds',
+        projectDesc: 'eBuds is an online collection of 30 cannabis strains, each with its own background and decorations. 1,000 unique NFTs have been generated.',
+        tags: ['eBuds', 'buds', 'weed'],
+        code: 'https://ebuds.netlify.app/',
+        demo: 'https://isengard.market/collection/BUD-3ee0cf',
+        image: ebud
+    },
+    {
+        id: 2,
         projectName: 'SuperVictor',
         projectDesc: 'At just 11 months old, Victor suffers from Type 1 SMA(spinal muscular amyotrophy)',
         tags: ['Together','for Victor' ],
@@ -18,7 +27,7 @@ export const projectsData = [
     },
  
     {
-        id: 2,
+        id: 3,
         projectName: 'Gokai Labs',
         projectDesc: 'Maiar Ghosts is an 8658 unique Mr Ghost NFT collection on the Elrond blockchain. .',
         tags: ['Maiar', 'Ghosts'],
@@ -27,7 +36,7 @@ export const projectsData = [
         image: two
     },
     {
-        id: 3,
+        id: 4,
         projectName: 'Seed Captain',
         projectDesc: 'Seed Captain is the first incubator in the Elrond ecosystem, the place where quality ideas can find the necessary financing at the beginning of their journey.',
         tags: ['Water', 'Fire', 'Capitan'],
@@ -36,7 +45,7 @@ export const projectsData = [
         image: three
     },
     {
-        id: 4,
+        id: 5,
         projectName: 'Web3 Pirates',
         projectDesc: '6969 Web3 Pirates sailing on Water',
         tags: ['Web3 Pirates', 'Web3 Crew'],
@@ -45,7 +54,7 @@ export const projectsData = [
         image: four
     },
     {
-        id: 5,
+        id: 6,
         projectName: 'Evoluzion.Life',
         projectDesc: 'This project aims to bridges the boundaries between ART and TECH ',
         tags: ['Primates', 'Humans', 'Cyborgs'],
