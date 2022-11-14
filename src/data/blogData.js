@@ -6,15 +6,16 @@ export const blogData = [
         date: 'Nov 3, 2022',
         image: 'https://miro.medium.com/max/640/1*XMu7np_Bibm1D_hDK65OQw.png',
     },
-    /* 
     {
         id: 2,
-        title: 'CHECK WEATHER FROM TERMINAL USING WTTR.IN',
-        description: 'wttr.in is a console-oriented weather forecast service that supports various information representation methods like ANSI-sequences for console HTTP clients, HTML, or PNG.',
-        date: 'Aug 11, 2020',
-        image: 'https://1.bp.blogspot.com/-OW7jX57tea4/XvnGxuEOslI/AAAAAAAABW0/R8lVT1AXDSwnvE0EGA9Ra49-LDm1ACwDgCK4BGAsYHg/s1216/wttr1.png',
-        url: 'https://hackzism.blogspot.com/2020/06/check-weather-from-terminal-using-wttrin.html'
+        title: 'Seed Phase',
+        description: 'eBuds are a new type of crypto asset(NFT) that is focused to create a decentralized platform that is driven by the community and powered by the people. Our project is in the Seed Phase, which means that we are focused on building a foundation for future growth. We keep our eBuds NFT funds safe by staking them.',
+        date: 'Nov 14, 2022',
+        image: '',
+        url: 'https://medium.com/@ebuds/seed-phase-817b10af7170'
     },
+    /* 
+   
     {
         id: 3,
         title: 'BEING ANONYMOUS: A BEGINNERS GUIDE',
