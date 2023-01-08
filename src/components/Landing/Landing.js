@@ -164,7 +164,7 @@ function Landing() {
                         <p>{headerData.desciption}</p>
 
                         <div className='lcr-buttonContainer'>
-                        {headerData.resumePdf && (
+                            {headerData.resumePdf && (
                                 <a
                                     href={headerData.resumePdf}
                                     download='resume'
@@ -176,7 +176,6 @@ function Landing() {
                                     </Button>
                                 </a>
                             )}
-                            </NavLink>
                             <NavLink
                                 to='/#contacts'
                                 smooth={true}
@@ -184,7 +183,7 @@ function Landing() {
                                 duration={2000}
                             >
                                 <Button className={classes.contactBtn}>
-                                    Litepaper
+                                    Contact
                                 </Button>
                             </NavLink>
                         </div>
