@@ -164,15 +164,18 @@ function Landing() {
                         <p>{headerData.desciption}</p>
 
                         <div className='lcr-buttonContainer'>
-                        <NavLink
-                                to='/#about'
-                                smooth={true}
-                                spy='true'
-                                duration={2000}
-                            >
-                                <Button className={classes.contactBtn}>
-                                    Read More
-                                </Button>
+                        {headerData.resumePdf && (
+                                <a
+                                    href={headerData.resumePdf}
+                                    download='resume'
+                                    target='_blank'
+                                    rel='noreferrer'
+                                >
+                                    <Button className={classes.resumeBtn}>
+                                        Litepaper
+                                    </Button>
+                                </a>
+                            )}
                             </NavLink>
                             <NavLink
                                 to='/#contacts'
@@ -181,7 +184,7 @@ function Landing() {
                                 duration={2000}
                             >
                                 <Button className={classes.contactBtn}>
-                                    Contact
+                                    Litepaper
                                 </Button>
                             </NavLink>
                         </div>
