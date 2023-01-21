@@ -8,7 +8,7 @@ function Main() {
     return (
         <div>
             <Helmet>
-                <title>{headerData.name} - eBudsDAO</title>
+                <title>{headerData.name} - eBudsDAC</title>
             </Helmet>
 
             <Navbar />        
