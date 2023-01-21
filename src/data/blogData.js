@@ -17,8 +17,8 @@ export const blogData = [
     {
         id: 3,
         title: 'eBuds Roadmap for 2023 and beyond.',
-        description: 'eBuds is a revolutionary NFT project that aims to push the boundaries of what is possible with the Elrond blockchain. We are committed to achieving this through a combination of hard work and innovative thinking. eBuds is a Decentralized Autonomous Community (DAC) powered by Draco Labs, that aims to become an Elrond node. The project’s main goal is to create a community of eBud holders who can participate in the development and growth of the project.',
-        date: 'Aug 14, 2020',
+        description: ' eBuds is a Decentralized Autonomous Community (DAC) powered by Draco Labs, that aims to become an Elrond node.',
+        date: 'Jan 21, 2023',
         image: 'https://miro.medium.com/max/640/1*UEkiQZtQG_1qtUifR9cKcw.webp',
         url: 'https://ebuds.medium.com/ebuds-roadmap-for-2023-and-beyond-9f7288ce2419'
     },
