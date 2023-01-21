@@ -1,16 +1,23 @@
 export const experienceData = [
     {
         id: 1,
-        company: '',
-        jobtitle: 'Branding the $EBUD token can help us to unlock a world of opportunities for the token and its holders. By creating a strong and recognizable brand for the token, $EBUD can help to increase its visibility and appeal to a wider range of potential users and investors.  ',
-        startYear: 'Q4',
-        endYear: '2022'
+        company: 'We are working on a Discord server and will announce when its ready.' ,
+        jobtitle: 'Discord server  ',
+        startYear: 'Q1',
+        endYear: '2023'
     },
     {
         id: 2,
         company: '',
-        jobtitle: ' The EBUD token is being branded, and the exchange listing it will be announced soon. The starting price is calculated by taking the amount of EGLD staked and dividing it by the circulating supply of EBUD. We are still working out some technical details, but we will update you soon! ' ,
+        jobtitle: ' In terms of utility, we are currently in talks with Gokai Labs to find a solution to use EBUD tokens in their weed shop in Thailand, where cannabis trade is legal. We are also working on a second collection of NFTs, which will have a limited supply and will be used to create a liquidity pool. ' ,
         startYear: 'Q1',
+        endYear: '2023'
+    },
+    {
+        id: 1,
+        company: ' Instead of competing against each other this year, it would be beneficial for us to come together and collaborate.' ,
+        jobtitle: 'Bootstrapping new communities to web3.0   ',
+        startYear: 'Q2',
         endYear: '2023'
     },
 
