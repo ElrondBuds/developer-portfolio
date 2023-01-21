@@ -14,16 +14,17 @@ export const blogData = [
         image: '',
         url: 'https://medium.com/@ebuds/seed-phase-817b10af7170'
     },
-    /* 
-   
     {
         id: 3,
-        title: 'BEING ANONYMOUS: A BEGINNERS GUIDE',
-        description: 'Here are some basic ways to lay off the Radar',
+        title: 'eBuds Roadmap for 2023 and beyond.',
+        description: 'eBuds is a revolutionary NFT project that aims to push the boundaries of what is possible with the Elrond blockchain. We are committed to achieving this through a combination of hard work and innovative thinking. eBuds is a Decentralized Autonomous Community (DAC) powered by Draco Labs, that aims to become an Elrond node. The project’s main goal is to create a community of eBud holders who can participate in the development and growth of the project.',
         date: 'Aug 14, 2020',
-        image: 'https://1.bp.blogspot.com/-GR19yCNbKCE/XuRcKEfKvhI/AAAAAAAAAwY/srFWw5pOpzMibeJb__SmgZpx9dIpNNWqgCK4BGAsYHg/w640-h426/anonymous1.jpg',
-        url: 'https://hackzism.blogspot.com/2020/06/being-anonymous-beginners-guide.html'
+        image: 'https://miro.medium.com/max/640/1*UEkiQZtQG_1qtUifR9cKcw.webp',
+        url: 'https://ebuds.medium.com/ebuds-roadmap-for-2023-and-beyond-9f7288ce2419'
     },
+    /* 
+   
+    
     {
         id: 4,
         title: 'CHECK INTERNET SPEED FROM THE COMMAND LINE',
