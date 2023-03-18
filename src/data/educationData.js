@@ -1,3 +1,7 @@
+import { ExploreRounded } from '@material-ui/icons';
+import { Linking } from 'react-native';
+
+const url="https://www.exrond.com"
 export const educationData = [
     {
         id: 1,
@@ -22,7 +26,7 @@ export const educationData = [
     },
     {
         id: 3,
-        institution: 'The EBUD token has been listed on  <a href="https://www.exrond.com/">exrond.com</a>. ',
+        institution: 'The EBUD token has been listed on  <Text onPress={() => Linking.openURL(url)}> {url}  </exrond.com>. ',
         course: 'We have initiated the development of our liquidity pool.',
         startYear: 'January',
         endYear: '2023'
