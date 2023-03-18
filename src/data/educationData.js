@@ -20,5 +20,12 @@ export const educationData = [
         startYear: 'January',
         endYear: '2023'
     },
+    {
+        id: 3,
+        institution: 'The EBUD token has been listed on  <a href="https://www.exrond.com/">exrond.com</a>. ',
+        course: 'We have initiated the development of our liquidity pool.',
+        startYear: 'January',
+        endYear: '2023'
+    },
 
 ]

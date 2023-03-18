@@ -1,8 +1,8 @@
 export const experienceData = [
     {
         id: 1,
-        company: 'We are working on a Discord server and will announce when its ready.' ,
-        jobtitle: 'Discord server  ',
+        company: 'We are currently seeking talented individuals to join our team as we build an open project. If you have the skills and passion to contribute, we would love to hear from you.' ,
+        jobtitle: 'Expanding: We are hiring! ',
         startYear: 'Q1',
         endYear: '2023'
     },
@@ -15,8 +15,8 @@ export const experienceData = [
     },
     {
         id: 1,
-        company: ' Instead of competing against each other this year, it would be beneficial for us to come together and collaborate.' ,
-        jobtitle: 'Bootstrapping new communities to web3.0   ',
+        company: 'Within this new world, you want to be able to create value, you want to be able to transfer value, you want to be able to easily own something and exchange it, or share it with friends. ' ,
+        jobtitle: 'This brings us very close to the first stepping stone.   ',
         startYear: 'Q2',
         endYear: '2023'
     },
