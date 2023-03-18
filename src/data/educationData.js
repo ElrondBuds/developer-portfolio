@@ -24,8 +24,8 @@ export const educationData = [
     {
         id: 3,
         institution: 'The EBUD token has been listed on  Exrond.com. ',
-        course: 'We have initiated the development of our liquidity pool.',
-        startYear: 'January',
+        course: 'We have initiated the development of our initial liquidity pool.',
+        startYear: 'February',
         endYear: '2023'
     },
 
