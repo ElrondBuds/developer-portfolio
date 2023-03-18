@@ -1,4 +1,3 @@
-import { ExploreRounded } from '@material-ui/icons';
 export const educationData = [
     {
         id: 1,
