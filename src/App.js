@@ -5,7 +5,6 @@ import { ThemeContext } from './contexts/ThemeContext';
 import { Main, BlogPage, ProjectPage } from './pages'
 import { BackToTop } from './components'
 import ScrollToTop from './utils/ScrollToTop'
-import { Linking } from 'react-native';
 
 import './App.css'
 
