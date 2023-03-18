@@ -1,5 +1,4 @@
 import { ExploreRounded } from '@material-ui/icons';
-const url="https://exrond.com"
 export const educationData = [
     {
         id: 1,
