@@ -22,22 +22,22 @@ export const educationData = [
     },
     {
         id: 3,
-        institution: 'The EBUD token has been listed on Exrond.com. ',
-        course: 'We are moving main liquidity pool from exrond.com to https://swap.onedex.app/pool.',
+        institution: 'We are moving to https://swap.onedex.app/pool. ',
+        course: 'EBUD token has been listed on Exrond.com.',
         startYear: 'February',
         endYear: '2023'
     },
     {
         id: 4,
-        institution: 'Created Initial Liquidity on https://swap.onedex.app/pool. ',
-        course: 'Initiated the development of our liquidity pool.',
+        institution: 'Initiated the development of our liquidity pool. ',
+        course: 'Created Initial Liquidity on https://swap.onedex.app/pool.',
         startYear: 'March',
         endYear: '2023'
     },
     {
         id: 5,
-        institution: 'Enable EBUD - EGLD swap on https://swap.onedex.app/. ',
-        course: ' Preparing plans for Farms   .',
+        institution: ' Preparing plans for Farms .',
+        course: ' Enable EBUD - EGLD swap on https://swap.onedex.app/.',
         startYear: 'April',
         endYear: '2023'
     },
