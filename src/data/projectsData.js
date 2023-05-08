@@ -13,7 +13,7 @@ export const projectsData = [
         projectDesc: 'eBuds is an online collection of 30 cannabis strains, each with its own background and decorations. 1,000 unique NFTs have been generated.',
         tags: ['eBuds', 'buds', 'weed'],
         code: 'https://superciety.com/fellowships/ebuds',
-        demo: 'https://isengard.market/collection/BUD-3ee0cf',
+        demo: 'https://www.frameit.gg/marketplace/BUD-3ee0cf/mint?sp=true',
         image: ebud
     },
     {
